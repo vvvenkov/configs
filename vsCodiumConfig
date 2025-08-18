@@ -1,0 +1,20 @@
+{
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.sideBar.location": "right",
+    "liveServer.settings.donotVerifyTags": true,
+    "git.enableSmartCommit": true,
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "window.commandCenter": false,
+    "workbench.colorTheme": "Default Light Modern",
+    "launch": {
+    
+        
+        "configurations": [],
+        "compounds": []
+    }
+}
