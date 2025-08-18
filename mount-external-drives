@@ -1,8 +1,0 @@
-1.$lsblk - check the list of connected deviced to your computer 
-
-2. Mount the removable device to a desired directory (best practice is the /mnt directory)
-$sudo mount /dev/sdb1 /mnt    
-
------------------------------
-3. Install ntfs-3g if the file system is ntfs
-$sudo pacman -S ntfs-3g
