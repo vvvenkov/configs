@@ -1,9 +1,0 @@
-sudo apt update
-sudo systemctl enable bluetooth
-sudo apt install bluez pulseaudio-module-bluetooth
-
-
-bluetoothctl 
-pair 
-trust
-connect  (MAC Address)

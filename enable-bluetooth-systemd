@@ -1,0 +1,14 @@
+Update system:
+$sudo apt update
+
+Install dependencies:
+$sudo apt install bluetooth bluez bluez-tools
+
+️Start & enable the Bluetooth service
+$sudo systemctl start bluetooth
+$sudo systemctl enable bluetooth
+
+Check status:
+$systemctl status bluetooth
+
+Reboot PC
