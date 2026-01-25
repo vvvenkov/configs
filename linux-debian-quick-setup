@@ -1,0 +1,30 @@
+A quick copy paste guide for my preferences 
+
+Update system:
+su root
+sudo apt update
+sudo apt upgrade
+sudo apt install visudo
+
+- setup user privileges
+
+Firewall:
+sudo apt install ufw
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw enable
+
+
+Setup Bluetooth:
+sudo apt install bluetooth bluez
+sudo systemctl enable bluetooth
+sudo systemctl start bluetooth
+
+
+Gnome desktop extensions:
+sudo apt install gnome-extension-freon
+sudo apt install gnome-extension-dash-to-dock
+sudo apt install gnome-extension-system-monitor
+
+
+Reboot
